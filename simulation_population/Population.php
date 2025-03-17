@@ -8,7 +8,7 @@
         public $selectedPeopleA;
         public $selectedPeopleB;
 
-//12345
+//12345 nouvelle branche
         public function __construct($name) 
         {
             $this->name=$name;
